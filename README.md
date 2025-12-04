@@ -23,4 +23,5 @@ A simple and responsive Image Gallery built using HTML, CSS, and JavaScript for 
 - JavaScript
 - - -
 🔗 Live Demo
+
 https://rasina-dotcom.github.io/ImageGallery/
